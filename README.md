@@ -7,6 +7,11 @@ This project analyzes customer churn, revenue trends, customer lifetime value (C
 - Power BI
 - Excel
 
+## Dataset Overview
+The analysis was performed on:
+- 600 customer subscription records
+- 12 months of revenue and acquisition data
+
 ## Business Questions
 - Which subscription plans experience the highest churn?
 - Which acquisition channels bring the highest-risk customers?
