@@ -28,7 +28,7 @@ The analysis was performed on:
 - Monthly recurring revenue (MRR) showed a consistent upward trend throughout the year.
 
 ## Dashboard Preview
-<img width="1302" height="732" alt="Dashboard" src="https://github.com/user-attachments/assets/77779390-26dc-4630-8d9f-02f87fcd5a3f" />
+<img width="1306" height="731" alt="Dashboard" src="https://github.com/user-attachments/assets/75e7ca9d-a8c0-4d05-8c39-284d0af26377" />
 
 ## Author
 Nishan Moaveera
